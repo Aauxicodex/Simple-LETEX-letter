@@ -1,3 +1,5 @@
+This LaTeX document is a template for creating a letter. It includes formatting packages, sender and receiver information sections, today's date, an opening greeting, placeholder text for the body of the letter, and a closing salutation. Users can replace placeholder text with their actual content to generate a personalized letter.
+
 ```
 \documentclass[a4paper]{letter}
 
