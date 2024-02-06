@@ -1,4 +1,3 @@
-markdown
 ```
 \documentclass[a4paper]{letter}
 
