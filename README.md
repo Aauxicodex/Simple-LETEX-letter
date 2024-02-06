@@ -1,3 +1,4 @@
+markdown
 \documentclass[a4paper]{letter}
 
 % Packages for formatting
